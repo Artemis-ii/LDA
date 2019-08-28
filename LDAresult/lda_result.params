@@ -1,0 +1,7 @@
+alpha = 2.5
+topicNum = 90
+docNum = 1001
+termNum = 574
+iterations = 100
+saveStep = 2147483647
+beginSaveIters = 2147483647
